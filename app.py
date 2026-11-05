@@ -541,4 +541,3 @@ with st.expander("How to Read This Result"):
         not definitive proof that a video is real or fake.
         """
     )
-```
