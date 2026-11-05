@@ -1,4 +1,4 @@
-```python
+
 """
 Streamlit demo: Upload a video and get a REAL / FAKE prediction.
 Run: streamlit run app.py
