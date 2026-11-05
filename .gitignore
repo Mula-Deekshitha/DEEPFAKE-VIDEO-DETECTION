@@ -1,0 +1,14 @@
+@'
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+crops/
+dfd/
+results_ft_cross/
+rob_none/
+rob_strong/
+*.log
+.ipynb_checkpoints/
+'@ | Set-Content "$repo\.gitignore"
